@@ -1,0 +1,15 @@
+Package: T-fetch
+Architecture: x86_64
+Version: 2.0
+Instx86_64ed-Size: 532
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/T-fetch
+Depends: bc, jq, termux-api
+Description: A decent fetch written in bash with a cute BHUTUU emog ascii image.
+Filename: dists/bhutuu/main/binary-x86_64/T-fetch.x86_64.deb
+Size: 952
+MD5Sum: 505fdaee693d54a04fcfc0e5f4367171
+SHA1: 40d9b3bc50f181d6008bad2f66c37c6747705e1b
+SHA256: ffd1507f83c5f1c3db6511824b7c78033ba86a73e1d6c1c7813eecf684301fba
+SHA512: 9ea02a56f8933df71bd0444eef3c34bfbc6c2074d235244983189ea4ee828572a04af9c8b43fe8712693564ac56bcb2a1d939595cc13dbec10beaf6552811e87
+

@@ -1,0 +1,15 @@
+Package: T-fetch
+Architecture: i686
+Version: 2.0
+Insti686ed-Size: 532
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/T-fetch
+Depends: bc, jq, termux-api
+Description: A decent fetch written in bash with a cute BHUTUU emog ascii image.
+Filename: dists/bhutuu/main/binary-i686/T-fetch.i686.deb
+Size: 952
+MD5Sum: 0c95c3df27421ee703ce81141eace450
+SHA1: 53b31e7ab88503e9efb43e1e2a4fca893bf0964d
+SHA256: ae9f50d616b0a2f84fd98a1995a6c21938dd35702cb320bd7f227028d5d24194
+SHA512: 5aaec4b28bd3c1b589ff3d954194df93421f141154cf32082b4747e76efe3b23b86d30968807145ea044f597b4c4acf362dc956bfeec9dd77c095f9da022c804
+
