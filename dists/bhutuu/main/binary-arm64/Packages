@@ -7,9 +7,9 @@ Homepage: https://github.com/BHUTUU/T-fetch
 Depends: bc, jq
 Description: A decent fetch written in bash with a cute BHUTUU emog ascii image.
 Filename: dists/bhutuu/main/binary-arm64/T-fetch.arm64.deb
-Size: 948
-MD5Sum: 4ae829439b7f5917932b9ff3b707452a
-SHA1: c8ab22eae6e67d1909ec584a224369d1ee625170
-SHA256: ba9f1bd5b9e79855a4252c452cd84651467fc26eb3d5956fb218e06e5f13775a
-SHA512: 95c4652e07a59fac41da4e0860a0fc797bc0047a1fc601e7222631884bff7d8315cd27a635f6e42a4b70ebe7f7529cd43506c0ad1a1a8dd300624f72c6fefa11
+Size: 952
+MD5Sum: 1ae18f14f6b85f3e48eaf9070a1aaaf6
+SHA1: c50c2e23d7250dda7f9c25f514ce4a5dce1aeada
+SHA256: 18a3cd068b12625d5d2c9e174786063e5a1ee199d94694aae320bf803e661615
+SHA512: b67a4737b69709a97565fc884d81c0e2071ce42d7d61a59c1facd9404eec59743b921eac67414f204fb96f50a412d6f545dc5809e1956515a401f63930090237
 
