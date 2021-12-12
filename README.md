@@ -1,7 +1,7 @@
 # bhutuu.root.repo
 My apt repository for DEBIAN distros (root).
 # Installation
-~~```
+```
 sudo source <(curl -fsSL "https://git.io/JDnQB") --install
 ```
 # Remove
