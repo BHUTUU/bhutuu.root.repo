@@ -8,8 +8,8 @@ Depends: bc, jq
 Description: A decent fetch written in bash with a cute BHUTUU emog ascii image.
 Filename: dists/bhutuu/main/binary-i686/T-fetch.i686.deb
 Size: 948
-MD5Sum: 453d471ba3dec32c3787c1cb1a98930f
-SHA1: be68d4c2c3c07fbbc0b500aed0adf1a194362196
-SHA256: 4de16f02e130fc3169105a1033288b65474e845d4fe3d01a72de4b01ec776202
-SHA512: 26cfd1d53085668eebdeabbd03f4d0892343b95569120b8baaa0b21bb683cdc0df820ea299e589ac9f0f243b9e1469fbef0c2b3079ee2f6d02aaf90e35a93ede
+MD5Sum: 9cdcb1a4b7ab2d7cb8ebdbf7b3653645
+SHA1: 6128aadfbf550e2b7c34f16d7beedd3361b5aa09
+SHA256: 522d0a33820512aa6dc96e6c1706ca377ba68f844b02b878a05394b7bfe9a06c
+SHA512: 1e6ab4cf1c9bbf3506a3c0c76cfb5df710b2634a31db9ce7143e423a6106cb8c43f1d1977e254f3e5b3abf28f595cd8183af03ec66a0ae43d51362daf8269082
 
