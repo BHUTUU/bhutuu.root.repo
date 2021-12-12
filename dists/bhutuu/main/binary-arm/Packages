@@ -4,12 +4,12 @@ Version: 2.0
 Instarmed-Size: 532
 Maintainer: Suman Kumar ~BHUTUU
 Homepage: https://github.com/BHUTUU/T-fetch
-Depends: bc, jq, termux-api
+Depends: bc, jq
 Description: A decent fetch written in bash with a cute BHUTUU emog ascii image.
 Filename: dists/bhutuu/main/binary-arm/T-fetch.arm.deb
-Size: 948
-MD5Sum: 0b91832f8dd0455fd163e382a2c572db
-SHA1: aae0784f4d29587033967baf1c812ee59ae5aa4f
-SHA256: 349fd47c592c7d7b92c163ebffcf028f63757e1bdd7f9ba24a5c41f88b77b1e0
-SHA512: 92d61a7fa7f95d7c61acae195f83959a342454d2bc2fa360433b7ae81492ccea53603bb9d527bc16d2cc98070c94758db5d0282df481b8e1b71dce660004bae0
+Size: 944
+MD5Sum: cc5abfa3de9d5e1ee24c13b48bb9af94
+SHA1: ff4661337c5bd1b82c7a3b39df358b35cff5f942
+SHA256: f95d49e1757d53423f5fb5618e25ba87adaff044af3ca600f4a1e1fcfbec6c51
+SHA512: 8c35c83b58f703584dbba15c28f2fe9188c6b7571de9142a808961e35ee5b683132c38d9d6278eb6e57442995e0b28db3c0b12dc540848100429b712b84b1e9d
 

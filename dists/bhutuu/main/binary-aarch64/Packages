@@ -4,12 +4,12 @@ Version: 2.0
 Instaarch64ed-Size: 532
 Maintainer: Suman Kumar ~BHUTUU
 Homepage: https://github.com/BHUTUU/T-fetch
-Depends: bc, jq, termux-api
+Depends: bc, jq
 Description: A decent fetch written in bash with a cute BHUTUU emog ascii image.
 Filename: dists/bhutuu/main/binary-aarch64/T-fetch.aarch64.deb
-Size: 956
-MD5Sum: 27cdb3753c63764304fee8c82c370d7b
-SHA1: 1deb056eea8062a588d6db28afee47203878cafa
-SHA256: 90866149adc61bf719618022cdbf3d0052486aa68e201c52ad747749dcc72151
-SHA512: 2b40119d4c276cdb127b8404e0a9aea5006ff4c341b54b8c8c678475228fb636757c73b1b6c9cf08dc44cf4b399a67cbd9086d01170e2a4eb0f0cce3704b670d
+Size: 948
+MD5Sum: 4ec344cc889378fd77399d31c639bb6c
+SHA1: e32d5fadaf0531c19d89b7f3be90aefca92af160
+SHA256: c54bebd415ac3910a8514ef628078db4feb0eb593f073df5574dc9a02e189842
+SHA512: 00f7fe50ab19153c35e51b60037cb3d8b5871b87eb3b3b23be0263dab24f6c98a63659dc5bab04429b180d415b552eddc2715f24b875ba83368a776a3ce5f60e
 
