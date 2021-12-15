@@ -1,15 +1,15 @@
 Package: T-fetch
 Architecture: aarch64
 Version: 2.0
-Instaarch64ed-Size: 532
+Installed-Size: 56 
 Maintainer: Suman Kumar ~BHUTUU
 Homepage: https://github.com/BHUTUU/T-fetch
-Depends: bc, jq
-Description: A decent fetch written in bash with a cute BHUTUU emog ascii image.
+Depends: wget, curl
+Description: A decent fetch in bash with a computer ascii art.
 Filename: dists/bhutuu/main/binary-aarch64/T-fetch.aarch64.deb
-Size: 61524
-MD5Sum: 1efbd04fdd2e4545b18785cc8f139e87
-SHA1: 40de2c74fba5c7a7197c5cb4359dd5bb54972afd
-SHA256: 6127115e8a16036eada2a2ee4c488337181478f25209f210908e750b9d4a3aa9
-SHA512: 3c936f5976703eab8c198fafffb0572e4070f3ea6303fd2087429c881d50a5c5da2b478572364f4683bf610a6fc719645ab6743a619efbae467a8e58a23a73fd
+Size: 1552
+MD5Sum: f022cf7163f164f4c7b0263c496a2b5d
+SHA1: 86ef1ad3501a37d5fb8b534fda0aa46cb7316d1b
+SHA256: 0ed5e8988da89cb330671af2ff4c3deb2436e18bd2019e8aef973b5ad02b2166
+SHA512: e72f482db3ab0ec7bb79b59ca8ae75db94834fb1a292d021a12ab6d2887162a69a662caed046f9ef03e9c8dac3b361782e6d5e23110312c04bbea02b49cd62e0
 
