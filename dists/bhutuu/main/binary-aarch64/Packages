@@ -7,9 +7,9 @@ Homepage: https://github.com/BHUTUU/T-fetch
 Depends: wget, curl
 Description: A decent fetch in bash with a computer ascii art.
 Filename: dists/bhutuu/main/binary-aarch64/T-fetch.aarch64.deb
-Size: 1612
-MD5Sum: 12f9d51c93b08f4f1b6fb286e1fdcd57
-SHA1: 042482e3639de0ef2869310ef8ca9ff065cdcb20
-SHA256: c7138f60ec4c4d697833ae51663bb9cd7d6643e79dad967755a5f66885cb0b1a
-SHA512: a9e25c1f6c0bd2303b183fd38a585f10fbc52f976d10952cfb219bba54c3e1729e501b420bd0c4c6f2606173324bf3c4131430a3849a62ee696c0f8bcc032c07
+Size: 1884
+MD5Sum: fd679109dbceef041bfb1d67ba734dfc
+SHA1: 7ede4dfb981d6c61a0e6179d9fa79c47f2fec637
+SHA256: 0c091d43d451c13d6a79c6dfbbbbda31d10df766f662cfbdfc944c148f0ffc32
+SHA512: a33764340172736ef374639f74dd6b03ba8c40cd739cde7452b3996502230d534f7ad20a4959ee6f3be7dfeeae609a5a53219df4546f765385c1aa541d53167d
 
