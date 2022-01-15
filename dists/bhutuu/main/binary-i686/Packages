@@ -8,8 +8,23 @@ Depends: wget, curl
 Description: A decent fetch in bash with a computer ascii art.
 Filename: dists/bhutuu/main/binary-i686/T-fetch.i686.deb
 Size: 1880
-MD5Sum: e6fc67dd107375920265ddca2927baa1
-SHA1: 6dac524f9bad61c11e984f0ca9cec8616582fece
-SHA256: cd1e8bff5ad1a320a16afb66483d6fa400b3ea0f630d65dc8dc3036938f510b3
-SHA512: 2ed93d9aec5ff48e5f190fa79ff9599ed76c5d2ddd9304e6831e4903f49e5a84f30408f40ae8df40064071c1e593ddd8582dfd379d85ad3186fb86d9e21c4910
+MD5Sum: 8659b30335e43039956ec95dce7bcaea
+SHA1: 6aded179278b6b70aa1bfede4b066a92b5794661
+SHA256: 2def29021e105801ed7b6547d6152475eec54effb34ea8955ac8c0ad2a9e77b3
+SHA512: a500ccd958c20b60e8d60c95008841dcd92ed5c36a895ecc9997c1613638647cbbf757bed66d107ffa1d45f0156f5b9ac369707ccab7818c6a5940277a480427
+
+Package: cloudflare
+Version: 1.0
+Architecture: i686
+Installed-Size: 29612
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https/github.com/BHUTUU/cloudflare-ui
+Depends: git, wget, curl, jq
+Description: User interface for cloudflared, an http port forwarding client.
+Filename: dists/bhutuu/main/binary-i686/cloudflare.i686.deb
+Size: 1232
+MD5Sum: 98e8265436381815eb1856a5c8eac4f1
+SHA1: c94b84d84ade32f3b75dcd8ba268df169c456340
+SHA256: de3f67a602c6d457d0f43ba3c1e8f7e649fa19662884badd91adc3bb4989618e
+SHA512: e08ce13770dc5f948f3c618baf0cf0c990abe9ac6afa7f2925ad5acd7ac73159d142486e3083108e206832e0c1271758c53ea1d99fe8c1602e0c498ecb83e451
 

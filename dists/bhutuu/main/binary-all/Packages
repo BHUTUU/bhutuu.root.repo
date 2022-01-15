@@ -8,8 +8,23 @@ Depends: wget, curl
 Description: A decent fetch in bash with a computer ascii art.
 Filename: dists/bhutuu/main/binary-all/T-fetch.all.deb
 Size: 1880
-MD5Sum: 606798d3d59c176352f47b88ce5b511d
-SHA1: 55c2853ebaa9919704ec8fac5f5bf5707dfcaab3
-SHA256: ebc4ac36880bbe35a72f7b251b18d99d36d9585c7c200ca1cc82b89c2388472b
-SHA512: 4a6213d03c5215eafa597aca5d50f4e95d4243d5b6e67c27c9f1f8bbcd8da93b807817961fdf32cb97a1df1540e1a845bfc2caa925a1efe497bec4c6c0d937a0
+MD5Sum: 7e2a3c6af532618b6c44cbc26d626c9d
+SHA1: 0e08fc5edb50d1be2140ddd69c9671f50cbec23f
+SHA256: 318b09ca53d7ba9a17a060feeadd3babd814a36483258f4fa47d67db08b8bbff
+SHA512: 1c554de6b6053a8c5427bf5552c0ea1f13b242b03a2c8820846624e016db804095f93719a40c94146a9507291796ef994ca2eb4e95ecbdf2f7cc3b39ea399143
+
+Package: cloudflare
+Version: 1.0
+Architecture: all
+Installed-Size: 29612
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https/github.com/BHUTUU/cloudflare-ui
+Depends: git, wget, curl, jq
+Description: User interface for cloudflared, an http port forwarding client.
+Filename: dists/bhutuu/main/binary-all/cloudflare.all.deb
+Size: 1228
+MD5Sum: b00f3d1e7e14eaac7778fb880e49e217
+SHA1: 58c79081b505698708379b9f5ccc5661fea23aa7
+SHA256: 98b22808d93801066c240943f0b4405f181217381331a3c0f18523ebb6b91dfa
+SHA512: e4725d5eaf37924d301ca12b09e7db919af123560f09b22a3cc8bb1108d8a5a4b6b7b69355c937ba801e65e7c744463e0d2005021fdbc04ac182bc5213cfc508
 
