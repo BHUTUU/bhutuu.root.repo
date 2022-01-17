@@ -8,10 +8,10 @@ Depends: wget, curl
 Description: A decent fetch in bash with a computer ascii art.
 Filename: dists/bhutuu/main/binary-all/T-fetch.all.deb
 Size: 1880
-MD5Sum: 7e2a3c6af532618b6c44cbc26d626c9d
-SHA1: 0e08fc5edb50d1be2140ddd69c9671f50cbec23f
-SHA256: 318b09ca53d7ba9a17a060feeadd3babd814a36483258f4fa47d67db08b8bbff
-SHA512: 1c554de6b6053a8c5427bf5552c0ea1f13b242b03a2c8820846624e016db804095f93719a40c94146a9507291796ef994ca2eb4e95ecbdf2f7cc3b39ea399143
+MD5Sum: dd61fc01819be686c19822d0ee08c787
+SHA1: 1205ea0fa6193a7325117998f1fbaa32a8332d07
+SHA256: 78df6e437dbad4637ecb1dce1595222c61275c758b36a0f22624736125bd4775
+SHA512: 1ffccf538346fdb913296bcedeeb5c0b698d59a8eb49282c0d42024bd3e2984a5eb8a180eb3ab7ef0699aa5d5127f71da8a8c27f0835a4822f57edd930ddc523
 
 Package: cloudflare
 Version: 1.0
@@ -23,8 +23,8 @@ Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-all/cloudflare.all.deb
 Size: 1228
-MD5Sum: b00f3d1e7e14eaac7778fb880e49e217
-SHA1: 58c79081b505698708379b9f5ccc5661fea23aa7
-SHA256: 98b22808d93801066c240943f0b4405f181217381331a3c0f18523ebb6b91dfa
-SHA512: e4725d5eaf37924d301ca12b09e7db919af123560f09b22a3cc8bb1108d8a5a4b6b7b69355c937ba801e65e7c744463e0d2005021fdbc04ac182bc5213cfc508
+MD5Sum: 21ef7b00d5195dec58bc8c578696c572
+SHA1: 5db401fe7d56087bb26a32669bce48426e9270bd
+SHA256: 23a1698dc9253b682d71e5e55929bf3f1087d4ece896a2932811a41436c06e84
+SHA512: bbe36f8dbef26bf2b142cc5c18254f7f1cb1dcdceb56de07e6bd1ca026f063edf67e63d56b5e314b339bcb427d21063b972a0acc15079a2af2cc3f7e0984e3b2
 

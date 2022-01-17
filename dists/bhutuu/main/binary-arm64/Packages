@@ -7,11 +7,11 @@ Homepage: https://github.com/BHUTUU/T-fetch
 Depends: wget, curl
 Description: A decent fetch in bash with a computer ascii art.
 Filename: dists/bhutuu/main/binary-arm64/T-fetch.arm64.deb
-Size: 1884
-MD5Sum: f61bbcf0e2d3d839cb4cc033c94386af
-SHA1: a23397249dd1ef7f7aaf718a2ceb94d5fb1f2d43
-SHA256: 1c6f6dde9e0547bd20cb9eb4eb10e6ca48953afb818c36c7c0650a039a8d19a2
-SHA512: a07f817c4c2f2a388fccf66efc547ff2a63fd5f7adbb57271c766a324d138440a5a83e54c9eb9d0869c5befdd3450213d3cc39d6320a79f11f1af69de69118e5
+Size: 1880
+MD5Sum: a5e64bf6c7951a194a481ae7b345610d
+SHA1: 857a64fb7af5cd8ffa0d0adbd15cf96df774a18f
+SHA256: af49bd4fbdc168c83582e93d8954d90696c676ea89259955651fa1428d4f6841
+SHA512: b601692f8e29a0113408ec975bcaed999af28deda8b7d13dd77f8e0acc43a0a4800e1779a0fbca5ce23c843e1b333a55820bcb6624cd2934f584fd6c771903af
 
 Package: cloudflare
 Version: 1.0
@@ -23,8 +23,8 @@ Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-arm64/cloudflare.arm64.deb
 Size: 1232
-MD5Sum: 3d61b298826d33db29c270564a3cc13a
-SHA1: 4c36c4d47bec84d4fedbfa452a0303163e03276d
-SHA256: 1fa40473d5674c10f114633c51689fd3a9832448ec361f7e6f65781981d208dd
-SHA512: 3cb95b993aba8e123dfecb0dbbd4464fdbca3ed65b608c3e7184ce6c814d2bdf9dfc17560a2a3961f98d03d5f0ea268ddcd7f253e1c56b073984f8de8078147b
+MD5Sum: f765b171f3e2fb6724fae8e70024febf
+SHA1: 44fd10fcdeb412a6c6a24c543c06c1758d4bee4a
+SHA256: 962e576203218f077c4402cde3ce1b98505b541e5523e7e252505a36463c6f2f
+SHA512: b0db2404269fba62efae7ac6fc56d90bcbccb1267aa7a9d1689ad7f5e6a989c29e77685bee48bbe1b354b67e989403651e5ed6682e7e090230ce265a0966eb0a
 

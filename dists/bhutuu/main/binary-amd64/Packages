@@ -1,0 +1,30 @@
+Package: T-fetch
+Architecture: amd64
+Version: 2.0
+Installed-Size: 56 
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/T-fetch
+Depends: wget, curl
+Description: A decent fetch in bash with a computer ascii art.
+Filename: dists/bhutuu/main/binary-amd64/T-fetch.amd64.deb
+Size: 1880
+MD5Sum: 94caabd5b8fdf285ea36986a523da032
+SHA1: 102b9c1eed0fe8388b43402c12aefbed11b94352
+SHA256: da9236199aa8d6acc9f47f39210345f8c5fc488354c8a42590db50c749e59057
+SHA512: f9a76717ec611743b285bff7c86a29f1b8722020b3590a249be8b4f0ae19558152ab9804df98666590cf6fbd45e627dff1edac748ea6905375c4aba60435717a
+
+Package: cloudflare
+Version: 1.0
+Architecture: amd64
+Installed-Size: 29612
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https/github.com/BHUTUU/cloudflare-ui
+Depends: git, wget, curl, jq
+Description: User interface for cloudflared, an http port forwarding client.
+Filename: dists/bhutuu/main/binary-amd64/cloudflare.amd64.deb
+Size: 1232
+MD5Sum: e8eacaa487e603e68ce214d4dcca8845
+SHA1: 3c719e0a99532c1f5594777572b8130fba8538d5
+SHA256: fed6994f98fd93bba24db2e40584a61f559696fdfb94fc7f637f801314d7a400
+SHA512: 59f51fce4cd921df6c5051652d5c41b6f711c752a7e83c739531b51f37d02e69f59186533047a46345500c2981cc3f5652dc6bf81e39d3c668a9f6d9fc55058f
+

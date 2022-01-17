@@ -8,10 +8,10 @@ Depends: wget, curl
 Description: A decent fetch in bash with a computer ascii art.
 Filename: dists/bhutuu/main/binary-aarch64/T-fetch.aarch64.deb
 Size: 1884
-MD5Sum: 61c046bce2d9c3ac65a95991381c316e
-SHA1: d9fb36227e04e163e2d8ed4376df1dccfee3e3ce
-SHA256: 9d1a4a0bba7ef270b631c4c62498dfa9e3bb4a58aa69e1a6f30bf49268baa957
-SHA512: 930ac3d2ab4e962b282115fc6253dd2ebb6120c668128060a205acf960dbca1fddb96fe2db10ec9fbf4c4826dc15f9e0fde3b387f1c2075bdba1b8767c090be8
+MD5Sum: 11f0307de9639f8128ded674a060264f
+SHA1: 4d3ed877061a17f0f06498160e0bf796f8479e8e
+SHA256: 696f43d42492aa69fb6c5a5e4cc4131799f9dce72cb68b1ff1723a1bdd2094a9
+SHA512: dcd70a85e5bf37a71db27ce1e1a5c02ba25a4d70cc12d9193cae96a1ea4f781c8b456ece27daadc5bb9aefee004b190ba8c890739bf0e8f33f12951bf4733329
 
 Package: cloudflare
 Version: 1.0
@@ -23,8 +23,8 @@ Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-aarch64/cloudflare.aarch64.deb
 Size: 1232
-MD5Sum: c1014f84c2f69713f0fc9d31ad24daae
-SHA1: fda97339ed2e7bd238dbfd8e34a838512d55f5d0
-SHA256: a7c95ceaab577909f8358a35d9bc231e57f1395c68f93ed247bd8da56468d507
-SHA512: d70cdc8474bc38ffa09e79ec2806480034db40ce4aa7f61e34b3187b4226ddc826e09368215b2ddb97e1d4c9604635b94d88b2ed5bd11c94080d5deb7c49ade3
+MD5Sum: 6dc9f7c6921ba60e47e2a85d6e86d031
+SHA1: bc80cee62022a5c475ef7350d202829472e1901f
+SHA256: 7d3c76060c6c4ad1356f70e833643862a6fe633f93a4f46c90275aedf5af3255
+SHA512: 3125facec15b7b78aa057849cfd0edec06a8dc336022f6cf8175cc9b91d1494c3454c9a5eb5d809e5e8f8c6f429c5b7da90cf9027a2dde84bffc78c05dc5e54b
 
