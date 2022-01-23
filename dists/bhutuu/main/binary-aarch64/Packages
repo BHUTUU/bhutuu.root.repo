@@ -8,10 +8,10 @@ Depends: wget, curl
 Description: A decent fetch in bash with a computer ascii art.
 Filename: dists/bhutuu/main/binary-aarch64/T-fetch.aarch64.deb
 Size: 1884
-MD5Sum: 11f0307de9639f8128ded674a060264f
-SHA1: 4d3ed877061a17f0f06498160e0bf796f8479e8e
-SHA256: 696f43d42492aa69fb6c5a5e4cc4131799f9dce72cb68b1ff1723a1bdd2094a9
-SHA512: dcd70a85e5bf37a71db27ce1e1a5c02ba25a4d70cc12d9193cae96a1ea4f781c8b456ece27daadc5bb9aefee004b190ba8c890739bf0e8f33f12951bf4733329
+MD5Sum: 3aa1eb26e10a2d4baa274ee792f2ff65
+SHA1: 69b2ccba173334258627e3afbae00e339003c159
+SHA256: 000969817586e151b52190746422ba043a9d0c7b3fb6e2c773d6adc8c7645402
+SHA512: 03b011fdb8ddd865cb62c7bac28902187974bef81e1c1c5972cabcc33f243f6b3bbda82c14226a1dc8e3a5dcb92fd6f2e23edb56a3c7db4e6e114ce0502036c8
 
 Package: cloudflare
 Version: 1.0
@@ -22,9 +22,24 @@ Homepage: https/github.com/BHUTUU/cloudflare-ui
 Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-aarch64/cloudflare.aarch64.deb
-Size: 1232
-MD5Sum: 6dc9f7c6921ba60e47e2a85d6e86d031
-SHA1: bc80cee62022a5c475ef7350d202829472e1901f
-SHA256: 7d3c76060c6c4ad1356f70e833643862a6fe633f93a4f46c90275aedf5af3255
-SHA512: 3125facec15b7b78aa057849cfd0edec06a8dc336022f6cf8175cc9b91d1494c3454c9a5eb5d809e5e8f8c6f429c5b7da90cf9027a2dde84bffc78c05dc5e54b
+Size: 1236
+MD5Sum: 644960b433f87bf56fb957fecf579a59
+SHA1: 94c6aff42efa2c978d0a1b922035d20527160cb9
+SHA256: 6757fd42eddbc7eaf3c52aafbf6ff86a30fd5585cc4fdeca4225a30aeabe44fb
+SHA512: fe0d961518904b6f8bff36d6a42104878c7914333f48044cd01adc2a7ad8343496f1b4fa673927f212112f5630ee8bb3de52e1f2db50453e15096460c396805f
+
+Package: liveserver
+Architecture: aarch64
+Version: 1.0
+Installed-Size: 464
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/liveserver
+Depends: php
+Description: A program automating php server for localhost:8080.
+Filename: dists/bhutuu/main/binary-aarch64/liveserver.aarch64.deb
+Size: 1360
+MD5Sum: d06dad000e0f4a6eb55d3648415d19da
+SHA1: fec5513825f69f5ed432f40d95be7fe19c66570a
+SHA256: 98687ea902895160d74550869de80c2a7008be2db685488e061f5da740ba3f0a
+SHA512: 65a8f31688ec1f757f090a6eaef784f1d287f1ce60ff6f9b0ec947f04b2b90a57f00b407e2f88ed5bdf8f4982bf526adc5f2397e4660675f9db6b415313e7ea3
 

@@ -7,11 +7,11 @@ Homepage: https://github.com/BHUTUU/T-fetch
 Depends: wget, curl
 Description: A decent fetch in bash with a computer ascii art.
 Filename: dists/bhutuu/main/binary-arm/T-fetch.arm.deb
-Size: 1880
-MD5Sum: c85fd54ae03b3eaa40f5b3df62a3d018
-SHA1: be6ec933eea3c75828c5c73775bc5a87cd2d258d
-SHA256: 83f808732a42258d9d46ae834d06c5a7aba99bed9bdc3ff727d9bf18d2bb8ee5
-SHA512: e659659d9bcfb34abbdc20a6b7e278e22107021d9f78dfd8b0b1463612bc4d40514c85e73d24862409a0bd703ed8c11b2f1b1866311b24700dd65fdf6dcd0c56
+Size: 1876
+MD5Sum: ef0fdd06b6781abbcfec57b4503288d0
+SHA1: e72f150757ed4689d1fa7db38180f046e3d3d41b
+SHA256: 8d5e29bb740e4702c18804b4156fb329d30e7dcc136b6bef314a6014a64f4759
+SHA512: 87a3b99c83ea7f2b17385bf3326b60623d2d20c6674122c828505a185681b785ec4ff34d4ab0891c35d9c5ad514f623e5d02bff0b482d2948b738c5928cc3dd3
 
 Package: cloudflare
 Version: 1.0
@@ -23,8 +23,23 @@ Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-arm/cloudflare.arm.deb
 Size: 1232
-MD5Sum: 26d9a6354216bb3aea01c3c52c0de6ba
-SHA1: 02476666b8ed735338189b1730705584da14787a
-SHA256: 7eb762d7cd808bf3ddaf988b5199fdc0a9008d62505f215bc002628745af8ef7
-SHA512: 2773a13cd66bbfac352218352867b1f24317399b119d68837755194d4f7c25408a400247c0540c69b0f0042b65da687b7ebf053a74b3abb8c6a6d9271e8d10cb
+MD5Sum: 19be04695ff3e76523e9b8113ee33fd2
+SHA1: a641ef966e5da50562e84b8bff9ad8be1189333b
+SHA256: c1bf6858f36bd286a3e0acce812456803405b08e480e8c08242bba540b0a7e70
+SHA512: 2ff06d3130a33e1ed0529a0f5c4cb3be62af49fb794c263ff842fd7050e4002e40bb0b585011220e9fa6a557b5b936122e61dbc98899cce6942fd76b74574599
+
+Package: liveserver
+Architecture: arm
+Version: 1.0
+Installed-Size: 464
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/liveserver
+Depends: php
+Description: A program automating php server for localhost:8080.
+Filename: dists/bhutuu/main/binary-arm/liveserver.arm.deb
+Size: 1360
+MD5Sum: 0e85ab55c678c10334aedf300aeae9d5
+SHA1: 1e4a984772f7b4f0bafe325a8c86c3357c244e97
+SHA256: 62772bf3f34cdd8f0f33245d44a382d7f574afa6ae63459a6d111a8d1ac609a1
+SHA512: f70ea4fce34342322813c1a8a544be3c6cae414935038ce4c4759e6e7d8b2758e98c8dc5b27fea5b3937c95c47414d7a498348d6db60765e34cc619386a2a094
 

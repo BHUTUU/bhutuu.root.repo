@@ -8,10 +8,10 @@ Depends: wget, curl
 Description: A decent fetch in bash with a computer ascii art.
 Filename: dists/bhutuu/main/binary-i686/T-fetch.i686.deb
 Size: 1880
-MD5Sum: 1d422ed46b85fa79e0abfec5aa7055f4
-SHA1: 7a4cc74aab0971d7e101fbd5f8301aef79cf8da9
-SHA256: 5e49eb63a34c0ca0a6c2b622c7e77693ea8f7404c82f86113cfde1aa8c5db04d
-SHA512: 4d73f67cf7009c88d3ac7cb1e63b77be5a48b88fe7c415ea94cdd28aaf0f28e8402da03be8ce79911d0fe2a39e943e8591bdf938ee24b7e75086cd063c307c4d
+MD5Sum: ed106ec2a1ee94c446c54f3c0d8bf972
+SHA1: 6c70a91d6e6459f94d86abed5cdd1db539912188
+SHA256: 611c138240de112a7fa2175609bf5ab2e301346adaaeb07546d979ff3ac2dba9
+SHA512: 944e47503b384d1fc1b268449496a605cc85d091403febac3d7a626b37a8f5b3d466363a02b4aa4784c746b2a13ca29e1e11813f7b5b1a34af49e771b2401c52
 
 Package: cloudflare
 Version: 1.0
@@ -23,8 +23,23 @@ Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-i686/cloudflare.i686.deb
 Size: 1232
-MD5Sum: 43b1afc7b9e59cfe5fee9104d76dcc9b
-SHA1: 6c921f05b11b4613e6c5932d1349b99807624f9d
-SHA256: a7592078d301b8d140faf37d4ee258725ef4cb59d1e1a7334116a418eb01a265
-SHA512: e4853c65aceb5db133c23e5b37f9715ee8acda8e62b5d895897555c237aa8fe7e71820651dd6992b7829702e8dbbe74b933b4357aa5dbca744fb39d2961fdd92
+MD5Sum: 629f27addf4b3ec6aa00c090c3ededd6
+SHA1: 50d6dcea76d4c181b2abc55e7cd1b982b774ae13
+SHA256: 6a4b01d5a30cac69e81b33ec2863e29ef858b1176de05ec7cf40ed56ff8959e1
+SHA512: def33490963eaffcd51dd305c6228b3fb89ab82a57a4a4a895d6214f6429a879ccc154ce222e0c01e3783b3d23c3ad82a6f875349f2c39ee803c332371c3352c
+
+Package: liveserver
+Architecture: i686
+Version: 1.0
+Installed-Size: 464
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/liveserver
+Depends: php
+Description: A program automating php server for localhost:8080.
+Filename: dists/bhutuu/main/binary-i686/liveserver.i686.deb
+Size: 1360
+MD5Sum: 78be6f365895af228982d864ab37d5f3
+SHA1: 2747da81fca0ac32a2b48525c6436a3f1ab8c8fb
+SHA256: dc2f1edf30d906668e5f1c94c055960ffad26f7e2eb14f9db286d791f7c8ff31
+SHA512: b6ebe50042a969d7ffea26db5f0b0ab4a8a696c7b9b09680f82da82b467223232f69684cb0f60cc2b8598a0471d2348aff66c13ea5c9b8c913cb5f57a111e05f
 
