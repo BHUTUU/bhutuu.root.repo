@@ -8,10 +8,10 @@ Depends: wget, curl
 Description: A decent fetch in bash with a computer ascii art.
 Filename: dists/bhutuu/main/binary-all/T-fetch.all.deb
 Size: 1880
-MD5Sum: d2facfe568041c777a84fbaf111a9147
-SHA1: f1b951d26a4942dc8ab2443c5a5a8cea52a98bff
-SHA256: 6b480021cb3df9735460bdb4bc7a8a98d4e62c612d92e1b5fb96a1db069e3369
-SHA512: 0abe85bc15d2fa489be3eb95037efdfb9a264f0c312f67d712c321d2e12952927be0d571a108ca84d72bda68f3c586abf53db1e631a5648cd0cd347bf2233963
+MD5Sum: c82676b7a21b57d2a6cebee11a00bc18
+SHA1: caf9f9a92230f04816935a19348a0d7794a78331
+SHA256: d3a4efbef8c34d771298b65c000eb1a6b11a08b8210502576ee4df83a942ad60
+SHA512: 45fb76971f5fa41fe738d66c394ff1a6a30827a0dae52e63257925094eba8a65b08d67dbcabfeda5c5b64beffd5fabb29f0add0d59d7457f0e5b2886f1316113
 
 Package: cloudflare
 Version: 1.0
@@ -23,23 +23,23 @@ Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-all/cloudflare.all.deb
 Size: 1228
-MD5Sum: 071ee1fa8e4b8bc9bd7e3064120e44b3
-SHA1: 3d75932df942edd048b9d472ab3119407fb6d62d
-SHA256: e5ebed2777a8a136e67607f2f0482246fb8ee68d4dd0d6e7a9834c1dc0444162
-SHA512: fd418a378f0c012ab37a2b33e742262d0f40a8d381fd4850b97bca81de2c7876cc5399b077df1937e5bdb7015a92e2074fc00db081630a890d53d4059ca22e15
+MD5Sum: 8ac260f62893cecd57a95fb01ac5ebec
+SHA1: 762308db88c25ad711767c68b3ed95a906be3d83
+SHA256: 758161f57f9612dee5b530fb0e06012de380082994656821adc111aef1972b66
+SHA512: 616ea87a6927b5a8fb325443ca9e3016d4bc6e8d4278de461e05095e439e1060ba541672718c1341632ce0748a1996d4fc2d891de559ee9f35a98a90bcfcdcac
 
 Package: liveserver
 Architecture: all
 Version: 1.0
-Installed-Size: 464
+Installed-Size: 484
 Maintainer: Suman Kumar ~BHUTUU
 Homepage: https://github.com/BHUTUU/liveserver
-Depends: php
+Depends: php, git
 Description: A program automating php server for localhost:8080.
 Filename: dists/bhutuu/main/binary-all/liveserver.all.deb
-Size: 1356
-MD5Sum: c0c23b9f6bf6a6180c85a0be28365941
-SHA1: b96f09440f1a88cc40e0263dbf0043ab383a4d75
-SHA256: 23a508a2c34aa21472d2e74b62d39bde50aa54943a3a54af0e191844db5ae9b1
-SHA512: f664b5e32a42d14fbd50169b87a485d8e5b3fa6d6b62109b2d76211838df6c3e052c6d985a14e1856f5c16cf9614210e764abc2e1088094cc057f1b2eb328bc3
+Size: 1180
+MD5Sum: 06d7de4fbda33915ae2ed5ec85d2bb4d
+SHA1: 830da70519e1015a9d3664e0674e91ff80791686
+SHA256: 125a688a669632d1292b2628b9aa2ab5e93d7eca43ae42c6a1f244f58d6ed8c8
+SHA512: ec53941b991a56e7030b9cff89fe13c33c1b7f5b74238e5be9b006a1215e9d3aa1a7d1ec2b6fbbf86700c184a7031710e52d9783137cae43b489fa4bb9518d85
 
