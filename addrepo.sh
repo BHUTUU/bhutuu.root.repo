@@ -3,7 +3,7 @@ CWD=$(pwd)
 var1="$1"
 var2="$2"
 var3="$3"
-PREFIX="\usr"
+PREFIX="/usr"
 #<<<-----colors----->>>#
 S0="\033[1;30m" B0="\033[1;40m"
 S1="\033[1;31m" B1="\033[1;41m"
@@ -26,7 +26,7 @@ CONF
   wget -q https://raw.githubusercontent.com/BHUTUU/bhutuu.root.repo/main/bhutuu.key
   sudo apt-key add bhutuu.key
   sudo apt-get update -yq --silent
-  cp -r $PREFIX/etc/apt/trusted.gpg $PREFIX/etc/apt/trusted.gpg.d/trusted.gpg
+  cp -r $PREFIX/etc/apt/trusted.gpg $PREFIX/etc/apt/trusted.gpg.d/trusted.bhutuu.gpg
   printf "\n${S2}BHUTUU APT REPOSITORY IS SUCCESSFULLY ADDED${R0}\n"
   printf "\n\n${S6}just run '${B1}apt install PROGRAM_NAME${R1}${S6}' to install a valid program!${R0}\n"
 }
