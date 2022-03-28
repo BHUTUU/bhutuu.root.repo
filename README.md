@@ -9,6 +9,8 @@ My apt repository for DEBIAN distros (root).
 
 # Packages
 * ```t-fetch```
+* ```liveserver```
+* ```cloudflare```
 
 # Usage
 ```apt install <package name>```
