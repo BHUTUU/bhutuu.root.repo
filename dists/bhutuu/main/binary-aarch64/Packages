@@ -7,14 +7,14 @@ Homepage: https://github.com/BHUTUU/T-fetch
 Depends: wget, curl
 Description: A decent fetch in bash with a computer ascii art.
 Filename: dists/bhutuu/main/binary-aarch64/T-fetch.aarch64.deb
-Size: 1884
-MD5Sum: c1e8e8c7a669625b9d6945f1932b97db
-SHA1: f912bafe8b0144741db92846287f732561d22f15
-SHA256: da96c68fea79f90623d6bf71e53b097b80627f223f9a4144bbe17400187bb939
-SHA512: 5d46a9c800a92a8459855392ba1bd014f89ed79e3319b94a627b997ee38dd600c26f4593f1f2aae3bc599fb65a0757f8fe32f1e50a629bc284c540cbdcdec268
+Size: 1880
+MD5Sum: 639be77516bd88c54caee1e1a328498a
+SHA1: cecd1a200c02c4927efa26a5bfb529c356044109
+SHA256: 205d12a5ce5019099b0ba3cebb92ba7dad0e136ccfce3cd44c596593f275c656
+SHA512: 613946d53121e7ff2137e87b74db18d5ae839029c98a3dc13ba220c859f8291641c2e26e054fee5c7c87f2f42f327b12c692199705aac3774ddc58ba9464fa3f
 
 Package: cloudflare
-Version: 1.0
+Version: 2.0
 Architecture: aarch64
 Installed-Size: 29612
 Maintainer: Suman Kumar ~BHUTUU
@@ -22,11 +22,11 @@ Homepage: https/github.com/BHUTUU/cloudflare-ui
 Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-aarch64/cloudflare.aarch64.deb
-Size: 1236
-MD5Sum: 8393b9bc956c1362e1491c47c603d065
-SHA1: 590f12603c574e2473fe3d9b45e554eebf72d093
-SHA256: c20357c7faeb2946ca5b99af03a640073c5921f0910e2355dce59b7ddd30ffd9
-SHA512: 47ff979867778abf46722de82718f45161d23a3f612ced76d5816dabd0f990e9fac322e69ccbd814fc5777e7e380f4bb15cc4d393cd1e35125881cd5bcf2cef1
+Size: 1244
+MD5Sum: 7a2203d091c7d1c98fcd2dc12f9f9e2f
+SHA1: 60e1efc94698b54e81f340c47558910bf9f9d80b
+SHA256: 905fc450da242c6135ff1c659a6436a16e61547aba1450d222a6289fc97ab92e
+SHA512: 63f8fcd843e5fd33967226dab33ea5dffd3fe5f2d17d991f28969bb5112004f0c86dcc69fd646b5341d862ff098fd5b9635492070e6d23d1bcf47ab5644bdaba
 
 Package: liveserver
 Architecture: aarch64
@@ -38,8 +38,8 @@ Depends: php, git
 Description: A program automating php server for localhost:8080.
 Filename: dists/bhutuu/main/binary-aarch64/liveserver.aarch64.deb
 Size: 1184
-MD5Sum: 99ebdfcfdfef9f0ae7b1f384393388a3
-SHA1: 266c91603a8a1f2c91e081a9e434a9d606dd078a
-SHA256: 0cffa9e4d92122c470a7e7377a6c81ee50d3e91f750e1a6f3e0c43597cf5fe8d
-SHA512: 3a5a76135134e0163a618c444206570e004c5494679fd91242edbadad0c6603bab32725bc6d9db4540024c9adb76653daf00840974455ae9f1bc3704176d4c15
+MD5Sum: 75e211cb22a34b7329621939d8e426a1
+SHA1: 88056ec01c5064e88e7662335814ebfceecd44b0
+SHA256: 69bdea0e22f1353f6b4b83834e323331b2db6e6055f90a5e08cde7d8111ad5ad
+SHA512: e7c95b0f2d67fa236a7e77e8c94acf7291e27bf593d2350a4f4f4b14024763cd771b3d29b7d33e18490c03854ce9d574c0ddb7b5d49d4d234aeeb05b9c94e0cf
 

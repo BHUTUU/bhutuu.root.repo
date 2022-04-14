@@ -8,13 +8,13 @@ Depends: wget, curl
 Description: A decent fetch in bash with a computer ascii art.
 Filename: dists/bhutuu/main/binary-arm/T-fetch.arm.deb
 Size: 1876
-MD5Sum: f073a79e1d17142d507144cf36a00fe8
-SHA1: 826f685071848878039fcada8e80e82aca6d318a
-SHA256: 8073b016694273c05bf5df933b8305b7c84ba4ab054c4b6fd907cb737a4108be
-SHA512: 672e682acc65e2306543ec4cd74c5361824c4232c8fd425fc08d39f7a61d63bd4a4e2e9abd3f236e09253da8f0ec2811e1829ab4fac36275b34fdb2dde42403f
+MD5Sum: 4999ff900a517ba635b30fbab10fca5d
+SHA1: cb526c94b101f37df5571230548fa407648e12f9
+SHA256: 8728b3e0de7cbe4d0b09f196a6e32a5df33d3c89816961d81a9f63e7803cc9aa
+SHA512: 142d6f3abdfcf8841c594ddbb4de7a2589534762d52adb792588e528c7a546ea40e14a6a469900639251513847f7d43c0e45389708a7c332d97c859c06272854
 
 Package: cloudflare
-Version: 1.0
+Version: 2.0
 Architecture: arm
 Installed-Size: 29612
 Maintainer: Suman Kumar ~BHUTUU
@@ -22,11 +22,11 @@ Homepage: https/github.com/BHUTUU/cloudflare-ui
 Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-arm/cloudflare.arm.deb
-Size: 1232
-MD5Sum: 63b65acde9789edf6d1394d3c2025641
-SHA1: 00fe581f903e02af54ae5ee161912e280533b5f7
-SHA256: 7ffe1b15bd0c3252b76ec8f40dba8ffbde42d325b041513ba1ec70cf5890e159
-SHA512: da18b87453a614f0ca54ea3333015d79020f8d2ff71ac8f99aa06ff26d8059f9cb3cdd4abcb1d23388922e6e781b16c606746d3d2f67d15318e811a9b8c496bc
+Size: 1240
+MD5Sum: ed92ede78450b187b5e9448c9463b100
+SHA1: 932b37211843550542bd80c4f9deabbbd69e2df1
+SHA256: af06d085e4cca13103280b3ec565cec4aa3a973650ab3ffc8b702debe2dbf721
+SHA512: b26ba6ef2a3e337b5ef389cd16fbe966f43e9f67023b2c979acf9374a314c6fbfa249f43766c1f532e4acfa92f7402965c499d99af50419517b2091feb94ecc6
 
 Package: liveserver
 Architecture: arm
@@ -38,8 +38,8 @@ Depends: php, git
 Description: A program automating php server for localhost:8080.
 Filename: dists/bhutuu/main/binary-arm/liveserver.arm.deb
 Size: 1176
-MD5Sum: 24c269d96b6967b877d966a9f0f00e8e
-SHA1: 81a7dcf085385d68a50c65ceb1a9ec31ba17bc24
-SHA256: 428acd0f10d9e36641ff67ab570f5e5f20387fc57a6c820db6ac7330618903fe
-SHA512: b93e30f8fbfc0503199e235263374b7bd96a205d8cccd77ade6527f0891bbf3de53ba1017788fca7bfcee7b4c10ba76e8217af41cbc829d6f11fc945b791731d
+MD5Sum: a54ea768b337d9ba234919848e49152a
+SHA1: f6af198734b3c9a7700330965639ca653bf6793d
+SHA256: 52699551f7a7327dc031f4311f64921822e54f9994fe12fd7ed2b33dee78c135
+SHA512: ff4441b8b34da1eda066e2d6f1301dedb55580e47efa2b5850f07a166a9767fa7edb28bdd54388987eef7784b80a6679f867ca3a929ee944e4286b5c42a7389f
 
