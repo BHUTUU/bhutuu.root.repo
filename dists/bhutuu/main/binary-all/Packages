@@ -8,10 +8,10 @@ Depends: wget, curl
 Description: A decent fetch in bash with a computer ascii art.
 Filename: dists/bhutuu/main/binary-all/T-fetch.all.deb
 Size: 1768
-MD5Sum: 3cea880dc96af24ad2ec23caf903d8b9
-SHA1: acb3235e87f02d889dc0ca061e0d897c7407e1cf
-SHA256: 2b44cbb82e5d9d173d9487ec82726154fec4062574a2f9b5b958b928025d9139
-SHA512: 8c63ce97d8cacc10d0e9dcdbc0ad844cc85b0e062bcf3b698f0b241f941489e49e74c7744abf3d185264fac7b92205b3897cb128369f62deb0d1d1392912cf9c
+MD5Sum: ab376ff71e7611e090fd75e7f3782b81
+SHA1: 8e708890ef2602ecfc43856145e55599c375b305
+SHA256: eabdba537986062c546215701a486ece34d2858763d5b873deb29497ad6d77a3
+SHA512: 859eb704adef20c01b6c1caa8b277dc46d65ba8f8f4ea302bf7dd6acff8e58a1d95827bd8829cdcc9ed13292c1d92d779b2a546b049673988a57e38db7ab39fe
 
 Package: cloudflare
 Version: 2.0
@@ -23,10 +23,10 @@ Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-all/cloudflare.all.deb
 Size: 1240
-MD5Sum: 11701cd2202900579b69974d8780faad
-SHA1: 6621f061b109977b31f47567bcfba48c436d524e
-SHA256: 3564dbb0d935b75121da8dd6a0fda4394f1b306de065237deaa36a87bf4438d4
-SHA512: e534178815c028b9aee959e6c9e7223cb15ed61ae9b453c1d426c4e2adfd08e3995b8cb37494fba1e380ba6305707488c7ea62f5848148092d05aeb957e6398e
+MD5Sum: 5ec7353ca0dd802488932c9583943920
+SHA1: 6053c6bc238f907ff1f520b7994338448b8fe377
+SHA256: 642dcfa01e1f615a7b589f0140071a50ca7cc3d7041568c6e523b5b1f9caf842
+SHA512: 67ca4d61731c895f556d9c079e459642f775f5d74961108c15116d6dd475c26881682dfb8ca2b880cfdc828b5464be9ef013fdbfa95d934a70701e28019576df
 
 Package: liveserver
 Architecture: all
@@ -37,9 +37,9 @@ Homepage: https://github.com/BHUTUU/liveserver
 Depends: php, git
 Description: A program automating php server for localhost:8080.
 Filename: dists/bhutuu/main/binary-all/liveserver.all.deb
-Size: 1168
-MD5Sum: a1825c421abaac6eabcb99d3de92f2a2
-SHA1: 47680a10a48e10db6ad7bb14b8fb9b0e371c626b
-SHA256: b2046e7c20bf8a2c75f05e2ef03b964fd311cf116ba2738816e68c9718415770
-SHA512: 9e7d2076f1856678cfc054aa1537db7f541a91e057b80c4fd068cd1ad2a53d0958a1854208b9422904b5f7f7329e648ade6bc5dfb4d9994510af6778e5174d08
+Size: 1172
+MD5Sum: 1fa0108d07f2c34452210fef64036af8
+SHA1: 9fcdd39ba1842fda8418f707f5264c2256cd4266
+SHA256: 5f11f04bcde820505293e930319b80dd5e581826fcfbddf316953a7833661cd9
+SHA512: 667bc0f609a4d940ae2c11b3c112879e2acb2cbc97ac321aaaa1f0962f9442d72671f4fb60255c9c5e13b353ee10d6e3b7f8d867a5b62e89ea7c5e943e5a1a2f
 

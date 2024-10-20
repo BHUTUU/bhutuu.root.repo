@@ -8,10 +8,10 @@ Depends: wget, curl
 Description: A decent fetch in bash with a computer ascii art.
 Filename: dists/bhutuu/main/binary-arm64/T-fetch.arm64.deb
 Size: 1772
-MD5Sum: 538765d1250acf703db23be004d58ad4
-SHA1: bd792bf3988487e0f271bffdf1dc771be2c92ca1
-SHA256: 95b274c9e2adddcfad2360c25e3b147309075f94a561c1ba5338cd3d446bdc0b
-SHA512: 59a9283c46b3086d170c51ef945ecba973cf5b61fac690657b44f821508b5202b7e6b3e2b4b57b23b6f486dd7c20db68e6d086988524c5a2dc9ea0ce9bbedb14
+MD5Sum: 136b3287e50279423af19f3074901ad2
+SHA1: 46e72ed196ee7c8e2ba85594b0fe814fadec07c1
+SHA256: 29a780bb574b3ebd0b40be5b74d706e70f2008bcc3c8842e078b9b8108c8c926
+SHA512: c026d13a0beada4b6ec3dfe974c6e3fa6673fd7c5e63fca557a818fed6ee8cdbd1c881f235eac00d17b70604c7918194877fd7b12efeb47086981432f6fd5c34
 
 Package: cloudflare
 Version: 2.0
@@ -23,10 +23,10 @@ Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-arm64/cloudflare.arm64.deb
 Size: 1244
-MD5Sum: f30fa7079f187ecb53243f6a2538aad1
-SHA1: e93bc3f6d304cf171dd821c6bebbd7f6ff465315
-SHA256: a0016b2002f0943827d0e6fb9b57d1d29dd02b9be89358b965a31224e968e2c2
-SHA512: 85edf8fab7c930508e6abd4686cea95f00702e7b764600d4ae7ad60b8b8aff001a1d25483003832250d519fba3cd72e439d4fd59da463c04e9ef162a18b7731f
+MD5Sum: 656db0f350e709659b5770a795e0c441
+SHA1: a78be87593267b9fe4e1a1e3a8552e076bbf0939
+SHA256: cc66759ee23c199ed33123f465f85df243f604dead11b5598bc080008ce8af63
+SHA512: 7da5c54447087d0bcc8dc30d023a914ec14661275890db823026dbb21e0e293ff997be04a126a92699e1e9cee0ea628a757c64cacd94e50360a3be70e4dfcbc1
 
 Package: liveserver
 Architecture: arm64
@@ -37,9 +37,9 @@ Homepage: https://github.com/BHUTUU/liveserver
 Depends: php, git
 Description: A program automating php server for localhost:8080.
 Filename: dists/bhutuu/main/binary-arm64/liveserver.arm64.deb
-Size: 1172
-MD5Sum: 74983ff908b4044fe9bed34f8e5b358a
-SHA1: 1421f8450befeab9f5c91453be12e1fbe089abd3
-SHA256: 27640bb6fb9cadd3e2bb56a8ac409b44272d01eb80b6a21bded0a66d1cf6bc06
-SHA512: 57754241cca261149568fa80106d72ac56a9dba42f8ba148036b8e1dac51a56db5af0a7853f427c36d15bbe61e82135eb5742086766c4306d26215150f6521ac
+Size: 1176
+MD5Sum: fe0dcca64e36abaca2e0a6330fa94b3b
+SHA1: e9c57b349e8b76f7623e844dc0388224db6a165d
+SHA256: 656b7984479d512d35990c39701d20dd8793f8a8a6182fa92eedcb69dc821616
+SHA512: 91de66cc492cf97b84b34b3b517720bec331e9701468619228244372a3cc328cdbda2deb9e5ff8fb39a7e9171e2c2390c35a9d9cef5915a30a80c13a10585386
 

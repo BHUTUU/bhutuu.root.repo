@@ -8,10 +8,10 @@ Depends: wget, curl
 Description: A decent fetch in bash with a computer ascii art.
 Filename: dists/bhutuu/main/binary-amd64/T-fetch.amd64.deb
 Size: 1772
-MD5Sum: 28dee777108a5c3c3e0672950dfa7901
-SHA1: fa9f21d53c4eecc724dbf9b84b6744a7cb5c4f11
-SHA256: 63c5a821fe3167c12003d9176ea905954a606bc044548ee4141c3ee4de5f2c21
-SHA512: 774169eb319994f9d0f518eb53cae6a23b7b6f8fd2154d210d202e6a44e374f46710e8d3d6c88703a288c7545fd4bce64c3c7e4db3353ae8431047f075321576
+MD5Sum: df4d5992b7f5213a4334d95480f0663b
+SHA1: 40af449935874d88f9e48d7b3d3e2e33f798c309
+SHA256: c5f4de9b1e10e60dbb0bd47f07011626cb58ca7e376b9b8aedb66ad4298dce64
+SHA512: ec25a05c1819e841dbaa3d121cc935925e269db956e1c7a5d6d33f771046cce50e458b4b9c3035c43cac050f3612765cdbb2bd4674457bde5c20e4b3bd801cde
 
 Package: cloudflare
 Version: 2.0
@@ -23,10 +23,10 @@ Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-amd64/cloudflare.amd64.deb
 Size: 1244
-MD5Sum: 6ea72ff72011acb596c5899c5d53b5bb
-SHA1: cf5066a3ca72501daacd49be798d844cb677b4de
-SHA256: 472e994b92fa6a57ace3e5c88a4ae5a9d5f6aac312af627d968678ee93c24764
-SHA512: 1043da73c34f434963c2c717403ebf5aac0b21d17c8e6d32776ec925e3d50402c9e143490a9a069bc820cd6389590285e168bf9a8130472df8d815948741426a
+MD5Sum: 65d8435e2f0b4cdfd28207441cba84c8
+SHA1: d308f0d0148f2cb0bc9ee2bb07c2419216b4c7d0
+SHA256: 2716b63a2b131105a601d66b2287d9133e36531ce55157fd712d85b00df6d433
+SHA512: 56a15f922d6fc4168f214ea85e89c90f5f51c2da3f971dc03a4d136e7a8a674efc4c921b3425fb135bf7d4096c0ba59af2b7006b24523ab197b8704c43d27252
 
 Package: liveserver
 Architecture: amd64
@@ -37,9 +37,9 @@ Homepage: https://github.com/BHUTUU/liveserver
 Depends: php, git
 Description: A program automating php server for localhost:8080.
 Filename: dists/bhutuu/main/binary-amd64/liveserver.amd64.deb
-Size: 1172
-MD5Sum: de3a53b2d0f26ee7bf11e2427899529a
-SHA1: e491677e012722b555038f93a74a8596d8c0cff3
-SHA256: 71a692e568166b9eadc06280ed907ff1fa96cfba5e3dc254a6b9d87f27edb619
-SHA512: 9478f507a5c07ea0f52fa6356289360a21b932715f0e1d27a3354e58c886214e6acc381b21a21bd033edd4a0f4be3ae570cba13dcb95063f0d2375ece16f28f3
+Size: 1176
+MD5Sum: c385dd22efce434a3bc85b658989703c
+SHA1: dc664d94fa9291bc7af9ae91eba6d3f2ffcc61a2
+SHA256: 7daee1ef07554cca417e7c156018ec375fd3aee406d8466754e2d62b454a74d9
+SHA512: cb5ac973ce7b016a82c33985cb31916f8d6f55bf667a1ac77cc5860031887b9662bee09c0f7e1249725b764a52c108754601ba5390239e83cc57ff4526c460eb
 
