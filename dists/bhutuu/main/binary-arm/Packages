@@ -8,10 +8,10 @@ Depends: wget, curl
 Description: A decent fetch in bash with a computer ascii art.
 Filename: dists/bhutuu/main/binary-arm/T-fetch.arm.deb
 Size: 1772
-MD5Sum: 4d994bb6658ec263f3d1ab25d0de36f6
-SHA1: e773babeb26a37992b612366aa9fc410d9cdae79
-SHA256: e0023637d20912cc46dd0890805848f68c4d9db09d6298c8084b1a54fa5d850c
-SHA512: 424e83c7533f601c58ea5744ba070a09e07b5b5b6fb6f19f6f69b35968c1ef6a73c6161db45ceaf47400b64c18c2d236a882fec04bf456bec39252d48935ddb2
+MD5Sum: dd7054f53b05274e4f34fa9fadd48fd1
+SHA1: 0a8227d93f93e04a1f068d5ce38848dd7293b09c
+SHA256: 42bd65b581274beda62f8c4c9174085431226bb0b7348c1589af883648c8e032
+SHA512: 47fdf2db05a90db304cb828e19b54ca3bf3413a9774bc63890497c741d093064042ac42afa4dbe57f082191b67585a8879293b0f114e983cfb4738ebf96fc245
 
 Package: cloudflare
 Version: 2.0
@@ -22,11 +22,11 @@ Homepage: https/github.com/BHUTUU/cloudflare-ui
 Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-arm/cloudflare.arm.deb
-Size: 1240
-MD5Sum: ba2d8f4e47e794ed778a842f6a448202
-SHA1: b28889d9af32c02a4315954f95190e7094e87500
-SHA256: 9f9f23a5b1d36851beccbe4752f27fa31ec829c118bd21a35ba62782a8fc8e58
-SHA512: 46ffdebfa187a69faa2ba57328736d65479831887f68b0b92e7dfb2e7775597acf3e0a4122765d65a91671bfa3732dc8ba8cd153b6e08bb1b56c0976e73427f7
+Size: 1244
+MD5Sum: 9be2704284e97207215fde6b2b28da1a
+SHA1: 30d30f2efc7fb7c22fca4a25fdd3d0d588d41b3b
+SHA256: 367a20afc090ac0bb7bc54b9320e24a227cdb992901f7e0b11b51b06cdf57e62
+SHA512: b68196b731296edca5009c291b4fd4e762596124c56a7674a41a4b82379d0ec0a2730aff07025570c49df61076d1a609a88e5372658cb79a1be2fd58b6d4de0a
 
 Package: liveserver
 Architecture: arm
@@ -38,8 +38,8 @@ Depends: php, git
 Description: A program automating php server for localhost:8080.
 Filename: dists/bhutuu/main/binary-arm/liveserver.arm.deb
 Size: 1172
-MD5Sum: c1f3c578f2c87f62313fba39fcafc62c
-SHA1: a5eb86044c3267a84825ddc3c34b652f3612fc39
-SHA256: 1a046b2a1cf6bd2c5fd9cd508cb4832aafd0e2b2c265c59f72190ab67744b3ee
-SHA512: affaa54937d393f6cb4af67953cc2d16edb7a8f39b86b05bccd5a16b03f5c4a86d71a1d8d58330ad716fa0c364d2f01331b143de3b0793c1e41e6872f8f7c7a0
+MD5Sum: f1bd13901838d17cc26cc10bfc83f8ed
+SHA1: 05e4fb6e2f9f7daa612230e7333bec2d30ca510c
+SHA256: fce4ddc693f87552436679a9bba0ff18998c88560cee7b233c863577a3ffe0f6
+SHA512: 411f24c161c2decf0a7d30bb23134a3a1f1ba323d311ba10121602ea28a44d599e5c43feae9d99814ed7fa06e3e292371a40e05532d368c441329db54222e08a
 

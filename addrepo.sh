@@ -24,14 +24,16 @@ sudo cat <<- CONF > $PREFIX/etc/apt/sources.list.d/bhutuu.root.repo.list
 deb [trusted=yes] https://bhutuu.github.io/bhutuu.root.repo/ bhutuu main
 CONF
   wget -q https://raw.githubusercontent.com/BHUTUU/bhutuu.root.repo/main/bhutuu.key
-  sudo apt-key add bhutuu.key
+  # sudo apt-key add bhutuu.key
+  sudo install -D -o root -g root -m 644 bhutuu.key /etc/apt/keyrings/bhutuu.gpg
   sudo apt-get update -yq --silent
-  cp -r $PREFIX/etc/apt/trusted.gpg $PREFIX/etc/apt/trusted.gpg.d/trusted.bhutuu.gpg
+  # cp -r $PREFIX/etc/apt/trusted.gpg $PREFIX/etc/apt/trusted.gpg.d/trusted.bhutuu.gpg
   printf "\n${S2}BHUTUU APT REPOSITORY IS SUCCESSFULLY ADDED${R0}\n"
   printf "\n\n${S6}just run '${B1}apt install PROGRAM_NAME${R1}${S6}' to install a valid program!${R0}\n"
 }
 rmrepo() {
   sudo rm -rf $PREFIX/etc/apt/sources.list.d/bhutuu.root.repo.list > /dev/null 2>&1
+  sudo rm -rf $PREFIX/etc/apt/keyrings/bhutuu.gpg > /dev/null 2>&1
   printf "\n${S2}BHUTUU APT REPOSITORY IS REMOVED FROM YOUR DEVICE${R0}\n"
 }
 helprepo() {

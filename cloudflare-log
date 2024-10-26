@@ -17,3 +17,17 @@
 {"level":"error","error":"open /usr/bin/cloudflared.new: permission denied","time":"2024-10-20T17:11:45Z","message":"update failed to apply"}
 {"level":"info","connIndex":2,"location":"del05","time":"2024-10-20T17:11:45Z","message":"Connection dec33216-0d4c-46aa-80b0-7a38fe419097 registered"}
 {"level":"info","connIndex":3,"location":"bom06","time":"2024-10-20T17:11:47Z","message":"Connection b6daf9fa-ffb4-467f-a3e9-1f69207e715b registered"}
+{"level":"error","time":"2024-10-20T17:20:47Z","message":"Failed to serve quic connection, err: failed to accept QUIC stream: timeout: no recent network activity"}
+{"level":"error","time":"2024-10-20T17:20:47Z","message":"Failed to serve quic connection, err: failed to accept QUIC stream: timeout: no recent network activity"}
+{"level":"error","time":"2024-10-20T17:20:47Z","message":"Failed to serve quic connection, err: failed to accept QUIC stream: timeout: no recent network activity"}
+{"level":"error","time":"2024-10-20T17:20:47Z","message":"Failed to serve quic connection, err: failed to accept QUIC stream: timeout: no recent network activity"}
+{"level":"info","connIndex":3,"location":"bom06","time":"2024-10-20T17:20:49Z","message":"Connection 07b90163-1e72-43f2-a00d-c209e0cd8cf0 registered"}
+{"level":"info","connIndex":1,"location":"bom03","time":"2024-10-20T17:20:50Z","message":"Connection 3ab4b744-b74b-4e2a-a2e0-3e6a544b8ab7 registered"}
+{"level":"info","connIndex":0,"location":"del05","time":"2024-10-20T17:20:51Z","message":"Connection 6ddd312a-7a29-44df-91a2-294948970565 registered"}
+{"level":"info","connIndex":2,"location":"del03","time":"2024-10-20T17:20:53Z","message":"Connection 09af10ac-e6ac-4ec9-be3d-d0750cebb930 registered"}
+{"level":"error","time":"2024-10-20T17:20:58Z","message":"Failed to serve quic connection, err: failed to accept QUIC stream: timeout: no recent network activity"}
+{"level":"info","connIndex":1,"location":"bom03","time":"2024-10-20T17:21:02Z","message":"Connection de00dcf4-60f7-4c5e-83bf-caabf8b3a5db registered"}
+{"level":"error","time":"2024-10-20T17:21:25Z","message":"Failed to serve quic connection, err: failed to accept QUIC stream: timeout: no recent network activity"}
+{"level":"info","connIndex":1,"location":"bom06","time":"2024-10-20T17:21:27Z","message":"Connection 8b200bfd-7538-4b8d-9f19-6b5e84401fdd registered"}
+{"level":"error","time":"2024-10-20T17:21:33Z","message":"Failed to serve quic connection, err: failed to accept QUIC stream: Application error 0x0"}
+{"level":"info","connIndex":1,"location":"bom06","time":"2024-10-20T17:21:33Z","message":"Connection ea6ac9af-5be2-4e7f-b310-83bd1750db19 registered"}
