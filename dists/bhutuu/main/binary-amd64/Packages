@@ -1,0 +1,45 @@
+Package: T-fetch
+Architecture: amd64
+Version: 2.0
+Installed-Size: 56 
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/T-fetch
+Depends: wget, curl
+Description: A decent fetch in bash with a computer ascii art.
+Filename: dists/bhutuu/main/binary-amd64/T-fetch.amd64.deb
+Size: 1800
+MD5Sum: d4c574e7c61819eda0c1479e4feae758
+SHA1: 1d375b88a198735a0d0d121cfc97aaa2cdddf650
+SHA256: b41508b48ba8b34ab1394abea877a3d20961e92885c2196ee3e723e7b4053ad8
+SHA512: a11604b565af341b923d93be1c0a3cf228e67e2b10a80be9727e7604f671cb0f0c8fca6525bf59afcfed0b9bc6ab69f7270e62bc825b8d3f84eb0d2457dc80b9
+
+Package: cloudflare
+Version: 2.0
+Architecture: amd64
+Installed-Size: 29612
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https/github.com/BHUTUU/cloudflare-ui
+Depends: git, wget, curl, jq
+Description: User interface for cloudflared, an http port forwarding client.
+Filename: dists/bhutuu/main/binary-amd64/cloudflare.amd64.deb
+Size: 1244
+MD5Sum: 88633af461bc632dc47918f9b4165551
+SHA1: a800b5d20b1987bda49676d91502dfa884b39a13
+SHA256: 0ed3cf2498cdd554c71415d4af4e4d18ebc3ba83dd792eb1157708c02f44777d
+SHA512: 42b8f24c7be6a2d872754f2e7ef1d8b1f41415aae3df0d2e82149fa37238dda02c7863356bcff5b7ba5fb9813dbdbf88fbaeed1188312cc9a895b4876b3a6604
+
+Package: liveserver
+Architecture: amd64
+Version: 1.0
+Installed-Size: 484
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/liveserver
+Depends: php, git
+Description: A program automating php server for localhost:8080.
+Filename: dists/bhutuu/main/binary-amd64/liveserver.amd64.deb
+Size: 1176
+MD5Sum: b4a1bc139ab6f9cdbfa7573e37885b2e
+SHA1: c289875ce39a5b8c0551127f9d260ea6e45b6d72
+SHA256: a6fc528118e623f68cfe090c3c7b5c14e2b77d48e6b970d5a59b046753d5962a
+SHA512: ab942f2f807ffc2bde7daedca13a0eb5146355c23522e74e5a7b715f4937dc6120ab7c776f318296e694607529ff2f991c1fc67dcee047cae42afb46461a883f
+
