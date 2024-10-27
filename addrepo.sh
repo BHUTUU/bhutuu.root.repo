@@ -3,7 +3,6 @@ CWD=$(pwd)
 var1="$1"
 var2="$2"
 var3="$3"
-PREFIX="/usr"
 #<<<-----colors----->>>#
 S0="\033[1;30m" B0="\033[1;40m"
 S1="\033[1;31m" B1="\033[1;41m"
@@ -17,10 +16,10 @@ R0="\033[00m"   R1="\033[1;00m"
 #<---x--->#
 addrepo() {
   sudo apt install gnupg -yq --silent
-  if [[ ! -d "$PREFIX/etc/apt/sources.list.d" ]]; then
-    sudo mkdir -p $PREFIX/etc/apt/sources.list.d
+  if [[ ! -d "/etc/apt/sources.list.d" ]]; then
+    sudo mkdir -p /etc/apt/sources.list.d
   fi
-sudo cat <<- CONF > $PREFIX/etc/apt/sources.list.d/bhutuu.root.repo.list
+sudo cat <<- CONF > /etc/apt/sources.list.d/bhutuu.root.repo.list
 deb [trusted=yes] https://bhutuu.github.io/bhutuu.root.repo/ bhutuu main
 CONF
   wget -q https://raw.githubusercontent.com/BHUTUU/bhutuu.root.repo/main/bhutuu.key
@@ -32,8 +31,8 @@ CONF
   printf "\n\n${S6}just run '${B1}apt install PROGRAM_NAME${R1}${S6}' to install a valid program!${R0}\n"
 }
 rmrepo() {
-  sudo rm -rf $PREFIX/etc/apt/sources.list.d/bhutuu.root.repo.list > /dev/null 2>&1
-  sudo rm -rf $PREFIX/etc/apt/keyrings/bhutuu.gpg > /dev/null 2>&1
+  sudo rm -rf /etc/apt/sources.list.d/bhutuu.root.repo.list > /dev/null 2>&1
+  sudo rm -rf /etc/apt/keyrings/bhutuu.gpg > /dev/null 2>&1
   printf "\n${S2}BHUTUU APT REPOSITORY IS REMOVED FROM YOUR DEVICE${R0}\n"
 }
 helprepo() {

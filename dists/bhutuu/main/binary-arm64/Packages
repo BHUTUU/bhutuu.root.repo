@@ -7,11 +7,11 @@ Homepage: https://github.com/BHUTUU/T-fetch
 Depends: wget, curl
 Description: A decent fetch in bash with a computer ascii art.
 Filename: dists/bhutuu/main/binary-arm64/T-fetch.arm64.deb
-Size: 1800
-MD5Sum: 761a834e63cc458522a32b84c4edeed0
-SHA1: ce70efe9908660e53e703d18628f47e1ca712983
-SHA256: 408099828dc5c8cc10a8f0738a930d32c7312ff120f4f355120cb42325d840f6
-SHA512: 3cae99825614b53007d8e6d48675134f7ec13aa9ae98e307d296e21a763794eb9edbf1038cd4d12beadfc6fc0fd78577dcaea38285f5639d6eaac95e21badbb3
+Size: 1956
+MD5Sum: 3c4607f7a53558be6ede3c4533647027
+SHA1: e220b0cbf31c75a03906815b2341af45d5374024
+SHA256: 29e99beba3ef0b5a57b05bdef12d43c637355bac89b64605856e48593199c790
+SHA512: 0f2d40bfb99ef47ebed84e81f9f1371718ce43d89ab4823d2e7d4ad3d48a6bb6f9719da9e70df6dea73749af2b0385da981831412ee0f5e226900573b5a03267
 
 Package: cloudflare
 Version: 2.0
@@ -23,10 +23,10 @@ Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-arm64/cloudflare.arm64.deb
 Size: 1244
-MD5Sum: 8b214cf2c80437f1452e341921c0db63
-SHA1: 42332cc39b64b56cc11322aa5e7cac425ebbe5e4
-SHA256: daa2e702f9b43fb6ed7a59bc10bbe5a997228d14a6f5b7d724e09de164b43b5f
-SHA512: e5190dfc0f7829533cefc0ca2395571c14ef550046bd757bc06ba8ba75dd5463cecae7cee7a7ef1e81d165425126cd7b8c80f03c2da2c0e2afa876d0a14b21f9
+MD5Sum: 4fc66050ef9be051bb5662c6f51cf0c1
+SHA1: 5e1b0055620a693e2fad2f140aa42d3f50b9dc7e
+SHA256: 1ac0dc67efcccbd6d820cda51ada4f4ac677ecc81c300f0e2a94ece2c4ef02fe
+SHA512: 1ffd649055ddff42fe446ae0de9b668dc70e99c8fd81b4eb74bafbbe168e4fd75c0422393f52a61d62f54f54726d7f0e1b21b40d7cd457f5491b5d9af7b9070d
 
 Package: liveserver
 Architecture: arm64
@@ -38,8 +38,8 @@ Depends: php, git
 Description: A program automating php server for localhost:8080.
 Filename: dists/bhutuu/main/binary-arm64/liveserver.arm64.deb
 Size: 1176
-MD5Sum: fa06e5a96161cdd119230d8faf061b46
-SHA1: e6a103a891ee50d1755a7967105143c692bb291f
-SHA256: d61ce2d494b013d4e9e28472a6896e27519f9968c1585f0878a8e32124681f70
-SHA512: 2674a36b082f56bc8d74f711579406dd7e11bbcf3e5ff12be777734e13a8d16466c459240bf61200d06d7341e4a5af7e774e04748a28b52f2c7d02fafd930679
+MD5Sum: 39fb23700e2486b478ec87242699a0ae
+SHA1: 4f484e033983a68aba039487f3af8835ef32e084
+SHA256: 48daf3bab4206188c8697af34330e5604a20044f3aa0a745e4b45a903e9bf81f
+SHA512: a766a77cbf20c9ce16d92c0cb81f38926a247a82e368984e8505378bb6108b33670c5efbaf2b914950013a752bce5a8a9f1e23da113c83d9ad4135974fe630ef
 

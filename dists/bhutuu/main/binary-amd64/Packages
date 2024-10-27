@@ -7,11 +7,11 @@ Homepage: https://github.com/BHUTUU/T-fetch
 Depends: wget, curl
 Description: A decent fetch in bash with a computer ascii art.
 Filename: dists/bhutuu/main/binary-amd64/T-fetch.amd64.deb
-Size: 1800
-MD5Sum: d4c574e7c61819eda0c1479e4feae758
-SHA1: 1d375b88a198735a0d0d121cfc97aaa2cdddf650
-SHA256: b41508b48ba8b34ab1394abea877a3d20961e92885c2196ee3e723e7b4053ad8
-SHA512: a11604b565af341b923d93be1c0a3cf228e67e2b10a80be9727e7604f671cb0f0c8fca6525bf59afcfed0b9bc6ab69f7270e62bc825b8d3f84eb0d2457dc80b9
+Size: 1956
+MD5Sum: c3e3a19ee3a7812c50ae1c2f7a859088
+SHA1: d15eb88671779701b2a0f9c7b9388bed212725b7
+SHA256: 1d7d7cdfbd2bcf982bf5b88f273d9e8f8afd2353307da907580f4f5da608379d
+SHA512: d37dac5a07fc8a742cd64d7e7981e9850f4f5f64c1bb5a62bd75c8b5bc22f24ce9b04c4d06d80d10b799fa1f03a119d833cad5fd8dadae113d1c643515db151f
 
 Package: cloudflare
 Version: 2.0
@@ -23,10 +23,10 @@ Depends: git, wget, curl, jq
 Description: User interface for cloudflared, an http port forwarding client.
 Filename: dists/bhutuu/main/binary-amd64/cloudflare.amd64.deb
 Size: 1244
-MD5Sum: 88633af461bc632dc47918f9b4165551
-SHA1: a800b5d20b1987bda49676d91502dfa884b39a13
-SHA256: 0ed3cf2498cdd554c71415d4af4e4d18ebc3ba83dd792eb1157708c02f44777d
-SHA512: 42b8f24c7be6a2d872754f2e7ef1d8b1f41415aae3df0d2e82149fa37238dda02c7863356bcff5b7ba5fb9813dbdbf88fbaeed1188312cc9a895b4876b3a6604
+MD5Sum: 6ab7e5cadafde32d0ca9463907f832fb
+SHA1: 67190f346bf0f96704304446b1c2d3cdd05d7ff5
+SHA256: d2967244f0e191722ec33993d852f56b07699a06670ae4172341c88f1ddd0da2
+SHA512: 59d0054c8c1a9f14d1f98e29fe9c8ecb0dc34dc01ad3d240da8b333ca8e478bf1e556298a3d5eb01b3f81efeccaef54c5143cdc684fac8f54beedfcf43e252d1
 
 Package: liveserver
 Architecture: amd64
@@ -38,8 +38,8 @@ Depends: php, git
 Description: A program automating php server for localhost:8080.
 Filename: dists/bhutuu/main/binary-amd64/liveserver.amd64.deb
 Size: 1176
-MD5Sum: b4a1bc139ab6f9cdbfa7573e37885b2e
-SHA1: c289875ce39a5b8c0551127f9d260ea6e45b6d72
-SHA256: a6fc528118e623f68cfe090c3c7b5c14e2b77d48e6b970d5a59b046753d5962a
-SHA512: ab942f2f807ffc2bde7daedca13a0eb5146355c23522e74e5a7b715f4937dc6120ab7c776f318296e694607529ff2f991c1fc67dcee047cae42afb46461a883f
+MD5Sum: e38cf4ccdd599d9c328d03b1f43db136
+SHA1: 0628513f0ae9ab2d7ab128ca013412d9af78615c
+SHA256: 26de3ebcf72cc5677f3ebb3bda12fda7e1662e29567df1f7fdb16d9266ca34cd
+SHA512: 4c190f4e4d3878cab498959bfa8f599fd687d1a30374001e9bde5ef7bf27a56ebfa578080892358590888a930ffeba1d71fdf35eff831c65279d1a355b8b9fdc
 
