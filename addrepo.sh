@@ -19,9 +19,9 @@ addrepo() {
   if [[ ! -d "/etc/apt/sources.list.d" ]]; then
     sudo mkdir -p /etc/apt/sources.list.d
   fi
-sudo cat <<- CONF > /etc/apt/sources.list.d/bhutuu.root.repo.list
-deb [trusted=yes] https://bhutuu.github.io/bhutuu.root.repo/ bhutuu main
-CONF
+# sudo cat <<- CONF > /etc/apt/sources.list.d/bhutuu.root.repo.list
+echo "deb [arch=amd64,arm64,aarch64,arm,i686 signed-by=/etc/apt/keyrings/bhutuu.gpg] https://bhutuu.github.io/bhutuu.root.repo/ bhutuu main" | sudo tee "/etc/apt/sources.list.d/bhutuu.root.repo.list" >/dev/null 2>&1
+# CONF
   wget -q https://raw.githubusercontent.com/BHUTUU/bhutuu.root.repo/main/bhutuu.key
   # sudo apt-key add bhutuu.key
   sudo install -D -o root -g root -m 644 bhutuu.key /etc/apt/keyrings/bhutuu.gpg
